@@ -17,5 +17,5 @@
   <li><strong>I know how to optimize websites</strong></li>
   <li><strong>Semantic layout</strong></li>
 </ul>
-<p>Извините, что мои знания расположены в хаотичном порядке, я не тратил время на их структуризацию. От себя хочется добавить, что вы всегда можете посмотреть примеры моих работ, вот пример: https://sids1de.github.io/12/</p>
+<p>I'm sorry that my knowledge is arranged in a chaotic order, I didn't spend time structuring it. From myself I would like to add that you can always see examples of my work, here is an example: https://sids1de.github.io/12/</p>
 <p>To easily view my other works, just change the number at the end of the link (it starts with 1, the closer to the beginning, the more ancient projects you look at, you will see me as a beginner who does not understand anything)</p>
