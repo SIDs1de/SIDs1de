@@ -1,4 +1,4 @@
-[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.shpavda.com/)
+[![Header](https://github.com/SIDs1de/SIDs1de/assets/main.gif)](https://www.shpavda.com/)
 
 ## Content/Apps/Games Creator
 
