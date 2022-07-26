@@ -1,22 +1,40 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/sids1de" target="_blank">Igor Denisenkov</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a novice web developer, currently learning how to make websites, in the future I plan to become a frontend developer. On my page you can see my works, I will be glad if you like them)</h3>
-<p>I translate messages through yandex translator, so I'm sorry if my texts are crooked.</p>
-<hr>
-<strong>I use the following technologies in my projects/My skills:</strong>
-<ul>
-  <li><strong>Knowledge of HTML / CSS / JS / JQUERY / SASS(SCSS) / PUG</strong></li>
-  <li><strong>Adaptive and cross-browser layout</strong></li>
-  <li><strong>BEM layout</strong></li>
-  <li><strong>Flexbox, Grid Layout</strong></li>
-  <li><strong>Valid layout</strong></li>
-  <li><strong>Ability to use the webp format</strong></li>
-  <li><strong>Gulp</strong></li>
-  <li><strong>Layout from figma</strong></li>
-  <li><strong>Git</strong></li>
-  <li><strong>I know how to optimize websites</strong></li>
-  <li><strong>Semantic layout</strong></li>
-</ul>
-<p>I'm sorry that my knowledge is arranged in a chaotic order, I didn't spend time structuring it. From myself I would like to add that you can always see examples of my work, here is an example: https://sids1de.github.io/12/</p>
-<p>To easily view my other works, just change the number at the end of the link (it starts with 1, the closer to the beginning, the more ancient projects you look at, you will see me as a beginner who does not understand anything)</p>
-<p><sub><em>I start the documentation only with the 11th project, because it was with him that my "professional" activity began, the sites on which I really give my best, I use modern technologies.</em></sub></p>
+[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.shpavda.com/)
+
+## Content/Apps/Games Creator
+
+<a href="https://the-unl.com" target="_blank">
+  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
+</a>
+<a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
+  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="Google Play" width="180"/>
+</a>
+<a href="https://www.apple.com/app-store" target="_blank">
+  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/app_store.png" alt="App Store" width="180"/>
+</a>
+
+### Latest YouTube Videos:
+<!-- YOUTUBE:START -->
+- [Как сохранять и получать объекты используя Flutter Shared Preferences](https://www.youtube.com/watch?v=HKwzU6Owxjs)
+- [Flutter Shared Preferences за 5 минут. Как сохранять и получать данные из локального хранилища.](https://www.youtube.com/watch?v=Y4moxaiDoEg)
+- [Локализация приложения на Flutter за 5 минут используя пакет easy_localization](https://www.youtube.com/watch?v=GLR2TW64V6A)
+- [Dart уроки для начинающих #16 - ООП: Видимость. Getters / Setters](https://www.youtube.com/watch?v=4lM0Uuh31vE)
+- [Dart уроки для начинающих #15 - ООП: Классы и объекты](https://www.youtube.com/watch?v=HJ090EowqI0)
+<!-- YOUTUBE:END -->
+
+### Languages and Tools:
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
+![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/alexeyshpavdaMain)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/alexeyshpavda)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexeyshpavda)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alexeyshpavda)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alexeyshpavda)
