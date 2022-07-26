@@ -1,4 +1,6 @@
-<img src="https://github.com/SIDs1de/SIDs1de/tree/main/assets/main.gif">
+<div id="header" align="center">
+  <img src="https://github.com/SIDs1de/SIDs1de/blob/main/assets/main.gif" width="100"/>
+</div>
 
 ## Content/Apps/Games Creator
 
