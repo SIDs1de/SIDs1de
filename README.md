@@ -1,10 +1,8 @@
 <div id="header" align="center">
-  <img src="https://github.com/SIDs1de/SIDs1de/blob/main/assets/main.gif"/>
+  <img src="https://github.com/SIDs1de/SIDs1de/blob/main/assets/main.gif" width="450"/>
 </div>
 
 <h1 align="center">Веб-разработчик / Верстальщик / Фронтенд-разработчик</h1>
-
----
 
 <a href="https://the-unl.com" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
