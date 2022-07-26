@@ -4,11 +4,18 @@
 
 <h1 align="center">Веб-разработчик / Верстальщик / Фронтенд-разработчик :cupid:</h1>
 
-### Languages and Tools:
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+<h3>Языки программирования, инструменты и практики, которые я изучил.</h3>
+
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=blue)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![BEM](https://img.shields.io/badge/-bem-090909?style=for-the-badge&logo=bem)
+![Npm](https://img.shields.io/badge/-Npm-090909?style=for-the-badge&logo=npm)
+![Yarn](https://img.shields.io/badge/-yarn-090909?style=for-the-badge&logo=yarn)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
+![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
+![photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobephotoshop)
