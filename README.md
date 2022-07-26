@@ -1,4 +1,4 @@
-<img href="https://github.com/SIDs1de/SIDs1de/assets/main.gif">
+<img href="https://github.com/SIDs1de/SIDs1de/tree/main/assets/main.gif">
 
 ## Content/Apps/Games Creator
 
