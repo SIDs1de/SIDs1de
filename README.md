@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://github.com/SIDs1de/SIDs1de/blob/main/assets/main.gif" width="450"/>
+    <a href="https://spb.hh.ru/applicant/resumes/short?resume=21156212ff0b1cb41e0039ed1f6d547971394a">
+    <img src="https://github.com/SIDs1de/SIDs1de/blob/main/assets/main.gif" width="450"/>
+    </a>
 </div>
 
 <h1 align="center">Веб-разработчик / Верстальщик / Фронтенд-разработчик :cupid:</h1>
@@ -21,10 +23,11 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
 ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
 ![photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobephotoshop)
-    
+
 </div>
 
 ---
+
 <h3>Обо мне: :wave:</h3>
 
 <p align="justify">Привет! Меня зовут Денисенков Игорь, мне 16 лет и я из города Тихвин (рядом с Санкт-Петербургом). На данный момент я фрилансер и открыт :unlock: для любых предложений. Я самоучка, уровень моих знаний вы можете проверить, посмотрев мои сайты: <a href="https://sids1de.github.io/12">https://sids1de.github.io/12</a>, просто меняйте число в адрессе, так вы просмотрите все мои проекты(чем меньше число, тем более старый проект).</p>
