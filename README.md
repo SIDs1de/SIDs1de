@@ -1,4 +1,4 @@
-[![Header](https://github.com/SIDs1de/SIDs1de/assets/main.gif)](https://www.shpavda.com/)
+<img href="https://github.com/SIDs1de/SIDs1de/assets/main.gif">
 
 ## Content/Apps/Games Creator
 
