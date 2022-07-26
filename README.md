@@ -5,6 +5,7 @@
 <h1 align="center">Веб-разработчик / Верстальщик / Фронтенд-разработчик :cupid:</h1>
 
 <h3>Языки программирования, инструменты и практики, которые я изучил:</h3>
+<br>
 
 <div align="center">
 
@@ -15,12 +16,12 @@
 ![BEM](https://img.shields.io/badge/-bem-090909?style=for-the-badge&logo=bem)
 ![Npm](https://img.shields.io/badge/-Npm-090909?style=for-the-badge&logo=npm)
 ![Yarn](https://img.shields.io/badge/-yarn-090909?style=for-the-badge&logo=yarn)
-    ![Bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-    ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
-    ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
-    ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
-    ![photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobephotoshop)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
+![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
+![photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobephotoshop)
     
 </div>
 
