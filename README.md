@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/SIDs1de/SIDs1de/blob/main/assets/main.gif" width="100"/>
+  <img src="https://github.com/SIDs1de/SIDs1de/blob/main/assets/main.gif"/>
 </div>
 
 ## Content/Apps/Games Creator
