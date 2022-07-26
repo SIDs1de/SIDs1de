@@ -40,8 +40,7 @@
 <h3>Как со мной связаться: :fire:</h3>
 
 <ul>
-    <li><b>Telegram(основной и самый быстрый способ): </b><a href="https://t.me/SIDs1de">https://t.me/SIDs1de</a></li>
+    <li><b>Telegram(основной и самый быстрый способ): </b><a href="https://t.me/SIDs1de">https://t.me/SIDs1de</a> :stars:</li>
     <li><b>Yandex почта: </b><a href="mailto:igorekdenisenkov@yandex.ru">igorekdenisenkov@yandex.ru</a></li>
     <li><b>Google почта: </b><a href="mailto:igorekdenisenkov@gmail.com">igorekdenisenkov@gmail.com</a></li>
 </ul>
-:stars:
